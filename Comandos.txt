@@ -14,3 +14,11 @@
 
 origin es el usuario
 Master es la rama
+
+-git branch (NOMBRE RAMA)CREA UNA NUEVA RAMA
+-git branch MUESTRA TODAS LAS RAMAS Y EN CUAL ESTAS
+-git checkout (NOMBRE RAMA) TE CAMBIA DE RAMA A LA QUE ESPECIFIQUES
+-git pull SIRVE PARA BAJAR CAMBIOS
+-git pull https://github.com/Eliam006/3aMASTER.git (NOMBRE RAMA)
+-git push origin (NOMBRE RAMA)
+
