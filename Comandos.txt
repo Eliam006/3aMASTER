@@ -1,0 +1,13 @@
+-ls MUESTRA TODOS LOS archivos que esten en la carpeta
+-git init INCIALIZA LA RAMA MASTER QUE ES EL MAYOR
+-git status MUESTRA EN QUE RAMA ESTAS, MUESTRA LOS DATOS
+-git add (FILE) AGREGA EL ARCHIVO A GIT
+-clear LIMPIA CONSOLA
+-git add . AGREGA TODOS LOS ARCHIVOS A GIT
+-git commit -m "Hola Mundo" SE HACEN LOS CAMBIOS TAN SOLO LOCALES
+-git config --global user.email 20223TN006@utez.edu.mx PONER CORREO
+-git config --global user.name Eliam006 PONER NOMBRE
+-git remote -v NOS DICE QUE USUARIO SUBE LOS CAMBIOS
+-git remote remove origin REMUEVE EL LINK QUE ALLAS AGREGADO
+-git remote add origin https://github.com/Eliam006/3aMASTER.git PONES TU LINK DE GITHUB
+-git push origin master SUBIR CAMBIOS EN GITHUB
