@@ -11,3 +11,6 @@
 -git remote remove origin REMUEVE EL LINK QUE ALLAS AGREGADO
 -git remote add origin https://github.com/Eliam006/3aMASTER.git PONES TU LINK DE GITHUB
 -git push origin master SUBIR CAMBIOS EN GITHUB
+
+origin es el usuario
+Master es la rama
